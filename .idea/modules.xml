@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Medicare.iml" filepath="$PROJECT_DIR$/.idea/Medicare.iml" />
-      <module fileurl="file://$PROJECT_DIR$/medicare/medicare.iml" filepath="$PROJECT_DIR$/medicare/medicare.iml" />
-    </modules>
-  </component>
-</project>
